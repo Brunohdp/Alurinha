@@ -11,3 +11,14 @@
     color: var(--branco);
     background-color: var(--cinza-medio);
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .menu__link {
+        border: 0;
+        border-radius: 0;
+        padding: 0;
+    }
+}

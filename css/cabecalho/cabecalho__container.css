@@ -5,3 +5,12 @@
     margin: 0 auto;
     width: 85%;
 }
+
+/* Parte Mobile */
+
+@media screen and (max-width: 768px) {
+    .cabecalho__container {
+        flex-direction: column;
+        width: 94%;
+    }
+}

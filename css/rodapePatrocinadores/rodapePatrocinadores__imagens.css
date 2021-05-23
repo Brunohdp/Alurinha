@@ -3,3 +3,12 @@
     display: flex;
     width: 75%;
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .rodapePatrocinadores__imagens {
+        width: 100%;
+    }
+}

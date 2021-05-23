@@ -2,3 +2,12 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .conteudoPrincipal__cursos__lista {
+        display: block;
+    }
+}

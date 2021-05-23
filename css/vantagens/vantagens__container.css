@@ -3,3 +3,13 @@
     margin: 0 auto;
     width: 85%;
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .vantagens__container {
+        display: block;
+        width: 94%;
+    }
+}

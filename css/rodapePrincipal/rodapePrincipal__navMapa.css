@@ -4,3 +4,14 @@
     margin: 0 auto;
     width: 85%;
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .rodapePrincipal__navMapa {
+        padding: 0;
+        padding-top: 10px;
+        width: 94%;
+    }
+}

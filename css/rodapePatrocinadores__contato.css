@@ -1,4 +1,3 @@
-.rodapePatrocinadores__contato fieldset {
-    display: flex;
-    justify-content: center;
+.rodapePatrocinadores__contato {
+    width: 100%;
 }

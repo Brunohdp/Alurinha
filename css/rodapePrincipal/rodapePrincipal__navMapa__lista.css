@@ -3,3 +3,12 @@
     flex-flow: column wrap;
     height: 240px;
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .rodapePrincipal__navMapa__lista {
+        height: auto;
+    }
+}

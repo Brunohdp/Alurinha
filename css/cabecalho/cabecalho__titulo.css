@@ -2,3 +2,12 @@
     font-size: 2rem;
     font-weight: bold;
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .cabecalho__titulo {
+        margin-bottom: 10px;
+    }
+}

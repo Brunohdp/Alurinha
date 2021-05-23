@@ -40,3 +40,12 @@
 .conteudoPrincipal__cursos__item:hover {
     box-shadow: 4px 4px 4px var(--cinzinha);
 }
+
+
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+    .conteudoPrincipal__cursos__item {
+        width: 100%;
+    }
+}
