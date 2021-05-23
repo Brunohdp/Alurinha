@@ -19,6 +19,7 @@
     .menu__link {
         border: 0;
         border-radius: 0;
+        font-size: 1.2rem;
         padding: 0;
     }
 }

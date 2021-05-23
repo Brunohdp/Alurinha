@@ -6,3 +6,11 @@
     flex-grow: 1;
     margin-left: 1.6em;
 }
+
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+ .vantagens__sobre{
+     margin: 0;
+ }   
+}
