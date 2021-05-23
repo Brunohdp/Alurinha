@@ -1,0 +1,12 @@
+.vantagens__sobre__botao {
+    background-color: var(--rosa);
+    border: 0;
+    border-radius: 9px;
+    color: var(--branco);
+    font-size: 1rem;
+    padding: 15px;
+}
+
+.vantagens__sobre__botao:hover {
+    cursor: pointer;
+}

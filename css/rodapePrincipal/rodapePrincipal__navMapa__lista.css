@@ -1,0 +1,5 @@
+.rodapePrincipal__navMapa__lista {
+    display: flex;
+    flex-flow: column wrap;
+    height: 240px;
+}

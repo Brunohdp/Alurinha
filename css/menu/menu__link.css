@@ -1,0 +1,13 @@
+.menu__link {
+    border: 1px solid var(--cinza-medio);
+    border-radius: 5px;
+    color: var(--cinza-medio);
+    padding: 10px;
+    text-decoration: none;
+    transition: all .25s ease-in-out;
+}
+
+.menu__link:hover {
+    color: var(--branco);
+    background-color: var(--cinza-medio);
+}

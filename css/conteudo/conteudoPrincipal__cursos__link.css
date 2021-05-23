@@ -1,0 +1,10 @@
+.conteudoPrincipal__cursos_link {
+    color: inherit;
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    height: 100%;
+    position: absolute;
+    text-decoration: none;
+    width: 100%;
+}

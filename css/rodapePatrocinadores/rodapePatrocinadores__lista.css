@@ -1,0 +1,5 @@
+.rodapePatrocinadores__lista {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,26 @@
+.rodapePrincipal__navMapa__subtitulo {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin: .9rem 0;
+    padding: .2rem 0 .2rem .3rem;
+}
+
+.backend {
+    border-left: 4px solid var(--verde-claro);
+    color: var(--verde-claro);
+}
+
+.frontend {
+    border-left: 4px solid var(--ciano);
+    color: var(--ciano);
+}
+
+.frameworks {
+    border-left: 4px solid var(--lilas);
+    color: var(--lilas);
+}
+
+.bancoDeDados {
+    border-left: 4px solid var(--rosa);
+    color: var(--rosa);
+}

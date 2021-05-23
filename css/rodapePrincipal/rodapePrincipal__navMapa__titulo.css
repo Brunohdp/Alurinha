@@ -1,0 +1,6 @@
+.rodapePrincipal__navMapa__titulo {
+    color: var(--branco);
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
