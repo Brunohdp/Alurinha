@@ -1,0 +1,6 @@
+.rodapePatrocinadores__contato__emailInput {
+    border: 1px solid var(--verde);
+    border-radius: 5px 0 0 5px;
+    padding: 10px;
+    flex-grow: 1;
+}

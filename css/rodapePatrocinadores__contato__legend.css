@@ -1,3 +1,5 @@
 .rodapePatrocinadores__contato__legend {
-    color: inherit;
+    color: var(--preto);
+    font-size: 1rem;
+    padding-bottom: 10px;
 }

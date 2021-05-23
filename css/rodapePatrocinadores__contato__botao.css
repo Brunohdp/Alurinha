@@ -1,0 +1,7 @@
+.rodapePatrocinadores__contato__botao {
+    background-color: var(--verde);
+    border-radius: 0 5px 5px 0;
+    color: var(--branco);
+    font-size: 1rem;
+    padding: 10px;
+}
